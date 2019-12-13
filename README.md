@@ -30,5 +30,5 @@
 `import run_models as rm` 
 
 `fig = rm.run_classifiers(titanic_data, 'Survived')`
-
+![alt text](https://github.com/Shivanandroy/run_models/blob/master/result.png)
 
